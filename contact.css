@@ -13,7 +13,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url(../img/Matthew-6.jpeg);
+    background: url(./img/Matthew-6.jpeg);
     background-size: cover;
 }
 .contact .content{
